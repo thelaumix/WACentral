@@ -1,0 +1,10 @@
+name: WACentral
+version: 1.0
+author: thelaumix
+description: Informationszentrale fuer WebAuction
+
+main: de.thelaumix.wac.main
+
+commands:
+   wac:
+      description: Steuerbefehl fuer WAC
